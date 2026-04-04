@@ -1,0 +1,97 @@
+{
+  "campaigns": [
+    {
+      "id": "c001",
+      "name": "Lumiere Summer Launch",
+      "client": "Lumiere Skincare",
+      "status": "active",
+      "budget": 50000,
+      "spend": 32450,
+      "impressions": 2400000,
+      "clicks": 48000,
+      "conversions": 1200,
+      "start_date": "2024-06-01",
+      "end_date": "2024-08-31"
+    },
+    {
+      "id": "c002",
+      "name": "Nike Air Max Drop",
+      "client": "Nike",
+      "status": "active",
+      "budget": 120000,
+      "spend": 98500,
+      "impressions": 8500000,
+      "clicks": 212000,
+      "conversions": 4800,
+      "start_date": "2024-05-15",
+      "end_date": "2024-07-15"
+    },
+    {
+      "id": "c003",
+      "name": "Coca-Cola Ramadan",
+      "client": "Coca-Cola",
+      "status": "completed",
+      "budget": 75000,
+      "spend": 75000,
+      "impressions": 5200000,
+      "clicks": 98000,
+      "conversions": 2100,
+      "start_date": "2024-03-01",
+      "end_date": "2024-04-10"
+    },
+    {
+      "id": "c004",
+      "name": "Samsung Galaxy S25 Launch",
+      "client": "Samsung",
+      "status": "active",
+      "budget": 200000,
+      "spend": 54000,
+      "impressions": 3100000,
+      "clicks": 87000,
+      "conversions": 3200,
+      "start_date": "2024-07-01",
+      "end_date": "2024-09-30"
+    },
+    {
+      "id": "c005",
+      "name": "Zara Winter Collection",
+      "client": "Zara",
+      "status": "paused",
+      "budget": 60000,
+      "spend": 21000,
+      "impressions": 1800000,
+      "clicks": 36000,
+      "conversions": 890,
+      "start_date": "2024-07-10",
+      "end_date": "2024-10-10"
+    },
+    {
+      "id": "c006",
+      "name": "Apple iPhone 16 Awareness",
+      "client": "Apple",
+      "status": "active",
+      "budget": 300000,
+      "spend": 187000,
+      "impressions": 12000000,
+      "clicks": 340000,
+      "conversions": 9800,
+      "start_date": "2024-06-20",
+      "end_date": "2024-09-20"
+    }
+  ],
+  "trend_data": [
+    { "date": "Jun 1", "impressions": 45000, "clicks": 900, "conversions": 22 },
+    { "date": "Jun 5", "impressions": 52000, "clicks": 1040, "conversions": 26 },
+    { "date": "Jun 10", "impressions": 61000, "clicks": 1220, "conversions": 31 },
+    { "date": "Jun 15", "impressions": 58000, "clicks": 1160, "conversions": 29 },
+    { "date": "Jun 20", "impressions": 74000, "clicks": 1480, "conversions": 37 },
+    { "date": "Jun 25", "impressions": 89000, "clicks": 1780, "conversions": 45 },
+    { "date": "Jul 1", "impressions": 95000, "clicks": 1900, "conversions": 48 },
+    { "date": "Jul 5", "impressions": 102000, "clicks": 2040, "conversions": 51 },
+    { "date": "Jul 10", "impressions": 118000, "clicks": 2360, "conversions": 59 },
+    { "date": "Jul 15", "impressions": 134000, "clicks": 2680, "conversions": 67 },
+    { "date": "Jul 20", "impressions": 127000, "clicks": 2540, "conversions": 64 },
+    { "date": "Jul 25", "impressions": 145000, "clicks": 2900, "conversions": 73 },
+    { "date": "Jul 30", "impressions": 162000, "clicks": 3240, "conversions": 81 }
+  ]
+}
