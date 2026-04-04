@@ -1,3 +1,21 @@
+# Environment files - never commit these
+.env
+**/.env
+backend/.env
+ai-service/.env
+notifications/.env
+
+# Python
+backend/venv/
+**/venv/
+**/__pycache__/
+*.pyc
+
+# Node
+**/node_modules/
+
+# Build
+**/dist/
 # Logs
 logs
 *.log
